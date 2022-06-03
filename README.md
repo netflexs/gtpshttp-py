@@ -1,2 +1,2 @@
 # gtpshttp-py
-GTPS HTTP with Anti DDoS Made With PY
+GTPS HTTP with ~~Anti DDoS`` Made With PY
